@@ -3,11 +3,8 @@
 ![C](https://img.shields.io/badge/C-FF69B4?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-00CED1?style=for-the-badge&logo=javascript&logoColor=white)
 
-**Web & Cơ sở dữ liệu:**
 ![Flask](https://img.shields.io/badge/Flask-FF69B4?style=for-the-badge&logo=flask&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-00CED1?style=for-the-badge&logo=firebase&logoColor=white)
-
-**Hệ thống & Mạng (Đang trau dồi):**
 ![Linux](https://img.shields.io/badge/Linux-FF69B4?style=for-the-badge&logo=linux&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_CCNA-00CED1?style=for-the-badge&logo=cisco&logoColor=white)
 
