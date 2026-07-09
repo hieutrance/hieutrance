@@ -37,13 +37,13 @@
         }
 
         .line1{animation:show 12s infinite; animation-delay:1s;}
-        .line2{animation:show 12s infinite; animation-delay:2s;}
+        .line2{animation:show 12s infinite; animation-delay:2.5s;}
         .line3{animation:show 12s infinite; animation-delay:3s;}
-        .line4{animation:show 12s infinite; animation-delay:4s;}
-        .line5{animation:show 12s infinite; animation-delay:5s;}
-        .line6{animation:show 12s infinite; animation-delay:6s;}
-        .line7{animation:show 12s infinite; animation-delay:7s;}
-        .line8{animation:show 12s infinite; animation-delay:8s;}
+        .line4{animation:show 12s infinite; animation-delay:4.3s;}
+        .line5{animation:show 12s infinite; animation-delay:5.5s;}
+        .line6{animation:show 12s infinite; animation-delay:7s;}
+        .line7{animation:show 12s infinite; animation-delay:7.5s;}
+        .line8{animation:show 12s infinite; animation-delay:9s;}
 
         @keyframes show{
             0%{opacity:0;}
@@ -85,7 +85,7 @@
         y="29"
         text-anchor="middle"
         class="title">
-        hieu@nocshell
+        hieuchan@shell
     </text>
 
     <!-- Prompt -->
@@ -94,7 +94,7 @@
         x="30"
         y="70"
         class="prompt">
-        hieu@noc:~$
+        hieuchan@:~$
     </text>
 
     <text
