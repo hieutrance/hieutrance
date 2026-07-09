@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="340"
+     viewBox="0 0 900 340">
+
+    <style>
+        .title {
+            font: bold 18px Consolas, Monaco, monospace;
+            fill: #e6edf3;
+        }
+
+        .text {
+            font: 17px Consolas, Monaco, monospace;
+            fill: #7ee787;
+            opacity:0;
+        }
+
+        .prompt{
+            font:17px Consolas, Monaco, monospace;
+            fill:#58a6ff;
+        }
+
+        .cmd{
+            font:17px Consolas, Monaco, monospace;
+            fill:#ffffff;
+        }
+
+        .cursor{
+            fill:white;
+            animation:blink 1s infinite;
+        }
+
+        @keyframes blink{
+            50%{
+                opacity:0;
+            }
+        }
+
+        .line1{animation:show 12s infinite; animation-delay:1s;}
+        .line2{animation:show 12s infinite; animation-delay:2s;}
+        .line3{animation:show 12s infinite; animation-delay:3s;}
+        .line4{animation:show 12s infinite; animation-delay:4s;}
+        .line5{animation:show 12s infinite; animation-delay:5s;}
+        .line6{animation:show 12s infinite; animation-delay:6s;}
+        .line7{animation:show 12s infinite; animation-delay:7s;}
+        .line8{animation:show 12s infinite; animation-delay:8s;}
+
+        @keyframes show{
+            0%{opacity:0;}
+            5%{opacity:1;}
+            80%{opacity:1;}
+            100%{opacity:0;}
+        }
+
+    </style>
+
+    <!-- Window -->
+    <rect
+        x="5"
+        y="5"
+        rx="12"
+        ry="12"
+        width="890"
+        height="330"
+        fill="#0d1117"
+        stroke="#30363d"/>
+
+    <!-- Top Bar -->
+    <rect
+        x="5"
+        y="5"
+        rx="12"
+        ry="12"
+        width="890"
+        height="38"
+        fill="#161b22"/>
+
+    <!-- Buttons -->
+    <circle cx="28" cy="24" r="7" fill="#ff5f56"/>
+    <circle cx="50" cy="24" r="7" fill="#ffbd2e"/>
+    <circle cx="72" cy="24" r="7" fill="#27c93f"/>
+
+    <text
+        x="450"
+        y="29"
+        text-anchor="middle"
+        class="title">
+        hieu@nocshell
+    </text>
+
+    <!-- Prompt -->
+
+    <text
+        x="30"
+        y="70"
+        class="prompt">
+        hieu@noc:~$
+    </text>
+
+    <text
+        x="150"
+        y="70"
+        class="cmd">
+        ping github.com
+    </text>
+
+    <rect
+        class="cursor"
+        x="315"
+        y="56"
+        width="10"
+        height="18"/>
+
+    <!-- Output -->
+
+    <text x="30" y="110" class="text line1">
+PING github.com (140.82.114.3): 56 data bytes
+    </text>
+
+    <text x="30" y="140" class="text line2">
+64 bytes from github.com: icmp_seq=1 ttl=57 time=11.2 ms
+    </text>
+
+    <text x="30" y="170" class="text line3">
+64 bytes from github.com: icmp_seq=2 ttl=57 time=10.8 ms
+    </text>
+
+    <text x="30" y="200" class="text line4">
+64 bytes from github.com: icmp_seq=3 ttl=57 time=11.0 ms
+    </text>
+
+    <text x="30" y="230" class="text line5">
+64 bytes from github.com: icmp_seq=4 ttl=57 time=10.9 ms
+    </text>
+
+    <text x="30" y="260" class="text line6">
+--- github.com ping statistics ---
+    </text>
+
+    <text x="30" y="285" class="text line7">
+4 packets transmitted, 4 received, 0% packet loss
+    </text>
+
+    <text x="30" y="310" class="text line8">
+round-trip min/avg/max = 10.8 / 11.0 / 11.2 ms
+    </text>
+
+</svg>
