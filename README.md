@@ -1,10 +1,8 @@
 # Hieu Tran 
 **Computer Engineering @ HCMUT | Aspiring NOC / Network Engineer**
 
----
-
-### 📋 System Logs & Objective
 Transitioning from Computer Engineering to Network Operations. Leveraging a strong foundation in hardware, embedded systems, and full-stack development to master Network Infrastructure, Monitoring, and NetDevOps (Network Automation).
+---
 
 ###  Ping Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hi%E1%BA%BFu-tr%E1%BA%A7n-64b402358/L)
