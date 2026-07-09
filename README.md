@@ -39,5 +39,5 @@ Transitioning from Computer Engineering to Network Operations. Leveraging a stro
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <p align="center">
-    <img src="terminal.svg" width="850">
+    <img src="terminal.svg" width="1200">
 </p>
