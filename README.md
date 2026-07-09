@@ -34,6 +34,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<p align="center">
+<p align="left">
     <img src="terminal.svg" width="600">
 </p>
