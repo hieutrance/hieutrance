@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**hieutrance/hieutrance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Python-00CED1?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-FF69B4?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-00CED1?style=for-the-badge&logo=javascript&logoColor=white)
 
-Here are some ideas to get you started:
+**Web & Cơ sở dữ liệu:**
+![Flask](https://img.shields.io/badge/Flask-FF69B4?style=for-the-badge&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-00CED1?style=for-the-badge&logo=firebase&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Hệ thống & Mạng (Đang trau dồi):**
+![Linux](https://img.shields.io/badge/Linux-FF69B4?style=for-the-badge&logo=linux&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_CCNA-00CED1?style=for-the-badge&logo=cisco&logoColor=white)
+
+### 📊 Thống kê GitHub
+
+![Thống kê GitHub của hieutrance](https://github-readme-stats.vercel.app/api?username=hieutrance&show_icons=true&title_color=00CED1&icon_color=FF69B4&text_color=333333&bg_color=FFFFFF&hide_border=true&locale=vn)
+
