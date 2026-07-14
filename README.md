@@ -35,7 +35,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hieutrance&show_icons=true&theme=radical&count_private=true" height="150" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hieutrance&layout=compact&theme=radical" height="150" />
 </div>
 
