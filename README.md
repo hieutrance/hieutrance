@@ -34,9 +34,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieutrance&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hieutrance&show_icons=true&theme=radical&count_private=true" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hieutrance&layout=compact&theme=radical" height="150" />
+</div>
 
 <p align="left">
     <img src="terminal.svg" width="600">
